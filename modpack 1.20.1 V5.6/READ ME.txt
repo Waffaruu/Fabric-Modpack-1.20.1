@@ -1,0 +1,16 @@
+first click on fabric installer.
+make sure to download right minecraft version inn it (1.20.1)
+and click ''install''
+should be over pretty quick.
+
+
+
+open your Original ''.minecraft'' folder by writing ''%appdata%'' in your windows searchbar.
+then open the ''.minecraft'' in the modpack folder and copy over all the folder to your original folder.
+
+then start up minecraft :)
+
+
+pro tip: in minecraft launcher u can allocate more ram to the game if u feel its a little bit unstable.
+check the pictures in ''HowtoRam'' folder.
+PS: the ram is in Gigabyte, i choose 15 cause i have 32, 4gb-6gb is recomended.
